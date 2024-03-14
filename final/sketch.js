@@ -58,7 +58,7 @@ function setup() {
 
 function draw() {
   background(255);
-  image(video, 0, 0, width, height);
+  image(video, 0, 0, 640, 480);
 
   //fill(200, 200, 250, 255); // the circle in the central 
   //ellipse(width / 2, height / 2, circleRadius * 2, circleRadius * 2);
